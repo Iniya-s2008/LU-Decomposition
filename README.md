@@ -23,8 +23,8 @@ Step 5: Stop the program.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: INIYA S
+RegisterNumber: 212225230104
 */
 import os 
 os.environ["OPENBLAS_NUM_THREADS"]="1"
@@ -40,8 +40,8 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: INIYA S
+RegisterNumber: 212225230104
 */
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
